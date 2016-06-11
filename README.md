@@ -1,6 +1,13 @@
 # Tech Insight
 Great blogs on technology, startup and innovation. This is the list that powers [Tech2Pocket](http://productchaseapp.herokuapp.com/tech2pocket).
 
+## General
+- Medium
+    - https://medium.com/tag/tech
+    - https://medium.com/tag/startup
+    - https://medium.com/tag/product-management
+    - https://medium.com/tag/design
+
 ## Venture Capitals
 - Y Combinator 
     - http://blog.ycombinator.com/ 
@@ -93,7 +100,7 @@ Newly added source, but still watching their feed's quality
 - Subtraction: https://www.subtraction.com/
 - Cindy Alvarez: http://www.cindyalvarez.com/
 - Sachin Rekhi: http://www.sachinrekhi.com/
-- Ben Milne: https://benmilne.com/feed/
+- Ben Milne: https://benmilne.com/
 
 ## Not very interesting
 
@@ -104,8 +111,48 @@ Sources excluded from subscribing
 - Nir Eyal: http://www.nirandfar.com/
 - Seth Godin: http://sethgodin.typepad.com/
 
-# Why subscribe so many blogs? Isn't that overwhelming?
-Not if you can find a way to filter the data. And that's why [Tech2Pocket](http://productchaseapp.herokuapp.com/tech2pocket) is build.
+# How it works
+
+I enjoy Paul Graham's essay, and I want to read more, so I start to collect interesting blogs. 
+The list is the result. However, there are always too much content. Sources like TechCrunch
+generated hundreds of articles within a few days, and obviously not every one of them worth my time.
+
+So how can I read the more interesting ones, given my limited time?
+
+So I started to try to use some data to filter the feed. I first experimented with Facebook and Twitter's sharing data, but the result is not very good.
+Then I tried Pocket. And it turned out to be pretty good, so the result is [Tech2Pocket](http://productchaseapp.herokuapp.com/tech2pocket).
+
+# Style
+
+This list is not about news. For news you can get it anywhere. Instead, the list is focused on thinking. It's about great articles that you can learn something from. Or, you can say this is
+
+> Read less, learn more.
+
+# Todo
+
+1. Sync the markdown file with the actual list
+
+The Markdown list could be updated by everyone. But the real list for [Tech2Pocket](http://productchaseapp.herokuapp.com/tech2pocket) is a yaml file, 
+which may look more like this:
+
+    ---
+    -
+      :name: VC
+      :sites:
+        - :name: The Macro
+          :url: themacro.com
+          :feed_url: http://themacro.com/feed.xml
+          :image_name: themacro.com.png
+        - :name: A16Z
+          :url: a16z.com
+          :feed_url: http://a16z.com/feed/
+          :image_name: a16z.com.png
+        - :name: First Round Review
+          :url: firstround.com
+          :feed_url: http://firstround.com/review/feed.xml
+          :image_name: firstround.com.png
+
+Obviously, I need to make the change at the markdown file sync with the yaml file. Otherwise I need to update the yaml file manually. But I haven't find a good way to do it yet.
 
 # Contribute to this list
 It would be great if you can contribute to the list. You can find me by twitter, or fork this repository and make a pull request.
