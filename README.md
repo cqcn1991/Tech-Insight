@@ -2,6 +2,7 @@
 Great blogs on technology, startup and innovation. This is the list that powers [Tech2Pocket](http://productchaseapp.herokuapp.com/tech2pocket).
 
 ## General
+- Harvard Business Review: https://hbr.org/
 - Medium
     - https://medium.com/tag/tech
     - https://medium.com/tag/startup
@@ -9,10 +10,10 @@ Great blogs on technology, startup and innovation. This is the list that powers 
     - https://medium.com/tag/design
 
 ## Venture Capitals
-- Y Combinator 
-    - http://blog.ycombinator.com/ 
+- Y Combinator
+    - http://blog.ycombinator.com/
     - http://themacro.com/
-- A16Z: http://a16z.com/ 
+- A16Z: http://a16z.com/
 - First Round Review: http://firstround.com/review/
 - KPCB
     - http://www.kpcb.com/
@@ -44,7 +45,6 @@ Great blogs on technology, startup and innovation. This is the list that powers 
     - frog: http://www.frogdesign.com/
     - ThoughtWokrs: https://www.thoughtworks.com/insights
     - ZURB: http://zurb.com/blog
-    - thoughtbot: https://robots.thoughtbot.com/, (very technical)
 - Communities
     - A List Apart: http://alistapart.com/
     - Mind the Product: https://www.mindtheproduct.com
@@ -76,7 +76,8 @@ Great blogs on technology, startup and innovation. This is the list that powers 
     - Ken Norton: https://www.kennorton.com
     - Paul Stamatiou: http://paulstamatiou.com/
     - Brian Balfour, Coeleveate: http://www.coelevate.com/
-
+    - Khoi Vinh, Subtraction: https://www.subtraction.com/
+    - Sachin Rekhi: http://www.sachinrekhi.com/
 
 ## Media
 
@@ -97,10 +98,8 @@ Newly added source, but still watching their feed's quality
 - Moz: https://moz.com/blog
 - Digiday: http://digiday.com/
 - Smashing Magazine: http://smashingmagazine.com/
-- Subtraction: https://www.subtraction.com/
-- Cindy Alvarez: http://www.cindyalvarez.com/
-- Sachin Rekhi: http://www.sachinrekhi.com/
 - Ben Milne: https://benmilne.com/
+- Cindy Alvarez: http://www.cindyalvarez.com/
 
 ## Not very interesting
 
@@ -130,29 +129,7 @@ This list is not about news. For news you can get it anywhere. Instead, the list
 
 # Todo
 
-1. Sync the markdown file with the actual list
-
-The Markdown list could be updated by everyone. But the real list for [Tech2Pocket](http://productchaseapp.herokuapp.com/tech2pocket) is a yaml file, 
-which may look more like this:
-
-    ---
-    -
-      :name: VC
-      :sites:
-        - :name: The Macro
-          :url: themacro.com
-          :feed_url: http://themacro.com/feed.xml
-          :image_name: themacro.com.png
-        - :name: A16Z
-          :url: a16z.com
-          :feed_url: http://a16z.com/feed/
-          :image_name: a16z.com.png
-        - :name: First Round Review
-          :url: firstround.com
-          :feed_url: http://firstround.com/review/feed.xml
-          :image_name: firstround.com.png
-
-Obviously, I need to make the change at the markdown file sync with the yaml file. Otherwise I need to update the yaml file manually. But I haven't find a good way to do it yet.
+1. Find a way to collaborate from the markdown list to an easier-to-maintain list (e.g. yaml)
 
 # Contribute to this list
 It would be great if you can contribute to the list. You can find me by twitter, or fork this repository and make a pull request.
