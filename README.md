@@ -15,9 +15,7 @@ Great blogs on technology, startup and innovation. This is the list that powers 
     - http://themacro.com/
 - A16Z: http://a16z.com/
 - First Round Review: http://firstround.com/review/
-- KPCB
-    - http://www.kpcb.com/
-    - https://medium.com/@kpcb_edge
+- KPCB: http://www.kpcb.com/
 - GV Library: https://library.gv.com/
 - Accel
     - http://theaccelblog.squarespace.com/
@@ -30,6 +28,7 @@ Great blogs on technology, startup and innovation. This is the list that powers 
 ## Companies and Groups
 - Product Companies
     - Basecamp (37 Signals): https://m.signalvnoise.com/
+    - Airbnb: http://nerds.airbnb.com/
     - Intercom: https://blog.intercom.io
     - Kickstarter: https://www.kickstarter.com/blog
     - InVision: http://blog.invisionapp.com/
@@ -45,6 +44,7 @@ Great blogs on technology, startup and innovation. This is the list that powers 
     - frog: http://www.frogdesign.com/
     - ThoughtWokrs: https://www.thoughtworks.com/insights
     - ZURB: http://zurb.com/blog
+    - Contently: https://contently.com/strategist/
 - Communities
     - A List Apart: http://alistapart.com/
     - Mind the Product: https://www.mindtheproduct.com
@@ -76,18 +76,22 @@ Great blogs on technology, startup and innovation. This is the list that powers 
     - Ken Norton: https://www.kennorton.com
     - Paul Stamatiou: http://paulstamatiou.com/
     - Brian Balfour, Coeleveate: http://www.coelevate.com/
-    - Khoi Vinh, Subtraction: https://www.subtraction.com/
     - Sachin Rekhi: http://www.sachinrekhi.com/
+    - Khoi Vinh, Subtraction: https://www.subtraction.com/
+    - Tren Griffin, 25iq: https://25iq.com/
 
 ## Media
 
 - TechCrunch: http://techcrunch.com/
-- Recode: http://www.recode.net/
 - Wired: http://www.wired.com/
-- VentureBeat: http://venturebeat.com/
 - Fast Company: http://www.fastcompany.com/
+- The Verge: http://www.theverge.com/
+- Business Insider: http://www.businessinsider.com/sai
+- Recode: http://www.recode.net/
+- MIT Technology Review: https://www.technologyreview.com
 - The Next Web: http://thenextweb.com/
 - Engadget: http://www.engadget.com/
+- VentureBeat: http://venturebeat.com/
 - CB Insights: https://www.cbinsights.com/blog/
 - Tech in Asia: https://www.techinasia.com/
 
