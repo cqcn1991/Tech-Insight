@@ -139,7 +139,7 @@ This list is not about news. For news you can get it anywhere. Instead, the list
 It would be great if you can contribute to the list. You can find me by twitter, or fork this repository and make a pull request.
 * Email: 38306608 at qq.com
 * Twitter: [@zhaozike](https://twitter.com/zhaozike)
-* 
-## License
+
+# License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
