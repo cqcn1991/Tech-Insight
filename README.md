@@ -1,4 +1,4 @@
-# Tech Insight
+# Tech Insight [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Great blogs on technology, startup and innovation. This is the list that powers [Tech2Pocket](http://productchaseapp.herokuapp.com/tech2pocket).
 
 ## General
@@ -139,3 +139,7 @@ This list is not about news. For news you can get it anywhere. Instead, the list
 It would be great if you can contribute to the list. You can find me by twitter, or fork this repository and make a pull request.
 * Email: 38306608 at qq.com
 * Twitter: [@zhaozike](https://twitter.com/zhaozike)
+* 
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
