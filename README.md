@@ -13,9 +13,7 @@ Join the [Slack Community](http://productchase-slack.herokuapp.com/)
     - https://medium.com/tag/design
 
 ## Venture Capitals
-- Y Combinator
-    - http://blog.ycombinator.com/
-    - http://themacro.com/
+- Y Combinator: http://blog.ycombinator.com/
 - A16Z: http://a16z.com/
 - First Round Review: http://firstround.com/review/
 - KPCB: http://www.kpcb.com/
@@ -119,8 +117,9 @@ Sources excluded from subscribing
 
 # How it works
 
-I enjoy Paul Graham's essay, and I want to read more, so I start to collect interesting blogs. 
-The list is the result. However, there are always too much content. Sources like TechCrunch
+I enjoy Paul Graham's essay, and I want to read more, so I start to collect interesting blogs and the result is this list.
+
+However, there are always too much content. Sources like TechCrunch
 generated hundreds of articles within a few days, and obviously not every one of them worth my time.
 
 So how can I read the more interesting ones, given my limited time?
@@ -128,20 +127,17 @@ So how can I read the more interesting ones, given my limited time?
 So I started to try to use some data to filter the feed. I first experimented with Facebook and Twitter's sharing data, but the result is not very good.
 Then I tried Pocket. And it turned out to be pretty good, so the result is [Tech2Pocket](http://productchaseapp.herokuapp.com/tech2pocket).
 
-# Style
+# Philosophy
 
 This list is not about news. For news you can get it anywhere. Instead, the list is focused on thinking. It's about great articles that you can learn something from. Or, you can say this is
 
 > Read less, learn more.
 
-# Todo
-
-1. Find a way to collaborate from the markdown list to an easier-to-maintain list (e.g. yaml)
-
-# Contribute to this list
-It would be great if you can contribute to the list. You can find me by twitter, or fork this repository and make a pull request.
-* Email: 38306608 at qq.com
-* Twitter: [@zhaozike](https://twitter.com/zhaozike)
+# Contact
+It would be great if you can contribute to the list. You can find me by
+- Email: 38306608#qq.com
+- Twitter: [@zhaozike](https://twitter.com/zhaozike)
+- 豆瓣: [子珂](https://www.douban.com/people/wohaobeia/)
 
 # License
 
