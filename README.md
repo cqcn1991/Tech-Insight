@@ -1,8 +1,7 @@
 # Tech Insight [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Great blogs on technology, startup and innovation. This is the list that powers [Tech2Pocket](http://productchaseapp.herokuapp.com/tech2pocket).
 
-Join the [Slack Community](http://productchase-slack.herokuapp.com/)
-[![Slack Status](http://productchase-slack.herokuapp.com/badge.svg)](http://productchase-slack.herokuapp.com/) or [Wechat Group ![](./wechat.png)](http://productchaseapp.herokuapp.com/articles/subscribe)
+Join the [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/Tech-Insight/community) or [Wechat Group ![](./wechat.png)](http://productchaseapp.herokuapp.com/articles/subscribe)
 
 ## General
 - Harvard Business Review: https://hbr.org/
